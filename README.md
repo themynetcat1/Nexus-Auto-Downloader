@@ -32,8 +32,8 @@ A lightweight Python quality-of-life (QoL) automation tool designed to streamlin
 
 ### Installation
 1. Clone or download this repository.
-2. Ensure `vortex_manual.png` and `slow_download.png` are in the root directory alongside `app.py`.
-3. Double-click **`run.bat`** (or manually run `pip install -r requirements.txt` followed by `python app.py`).
+2. Ensure `vortex_manual.png` and `slow_download.png` are in the root directory alongside `main.py`.
+3. Double-click **`run.bat`** (or manually run `pip install -r requirements.txt` followed by `python main.py`).
 4. Press **`F8`** to begin.
 
 ---
